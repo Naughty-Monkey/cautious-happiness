@@ -1,0 +1,11 @@
+### Turling bot
+/submit_activity_codes bean e7lhibzb3zek2dktkljvmo43uohuhjqugn6cyoq&e7lhibzb3zek2ges5ohy5fuslnkzpnpvp6pbq5q
+/submit_activity_codes farm 4b51eaf8933d44abb12b0ff10970f29f&e08aaa769c69449cb6e44b637405a96c
+/submit_activity_codes jxfactory 8updD7dNNEL5tBKxpTFNkA==&851ud6_c5-m_3airK6G8sA==
+/submit_activity_codes pet MTAxODc2NTE0NzAwMDAwMDAzMDM0NDY1Nw==&MTAxODc2NTEzMjAwMDAwMDAyOTU1NjE0MQ==
+/submit_activity_codes ddfactory T0225KkcRBpI8lzUIEj3kPZfdwCjVWnYaS5kRrbA&T0225KkcRBcQ9V2GJhj3wPQOIgCjVWnYaS5kRrbA
+/submit_activity_codes sgmh T0225KkcRBpI8lzUIEj3kPZfdwCjVWmIaW5kRrbA&T0225KkcRBcQ9V2GJhj3wPQOIgCjVWmIaW5kRrbA
+### Commit bot
+/jdcash eU9YaOjjYfQl8TzWz3JG1Q&eU9YaOW7ZvV392zWn3AXgA
+/jdcrazyjoy sngyJDZUUCeLzVpFOk1Koqt9zd5YaBeE&bMjQ1EEe5lt3muWcWb5DHKt9zd5YaBeE
+/jdzz AUWE5m6nByj0LCDL72X0flg&AUWE5m6SZzTxZDmL7iX9Oww
