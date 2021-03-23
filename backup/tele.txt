@@ -16,6 +16,7 @@
 
 /submit_activity_codes jdglobal YWo2VWxrU1JnNkNKNVc1MG5wWlJzb1o1RWhQb3pCQ0FoRzhvdkUxcnRRbz0=&SmMzQm1YMlJ2RXpndlgra084TzkzV0VveU5pQnY2Z0Y1T1RYSk9YZGJkbz0=&TXVCeTdmLzQ1RnJVMnpnQmI2a24xNXlOWFV6SFltSzR2UFV0YURvNU1nbz0=
 
+/submit_activity_codes city RtGKzOj1RgKgftGZE9Vm1Vjpcpf4SUbdz9av6aq8oMWv1Hwcgg& RtGKzOWtQQPyeIGZQ9c3gJ5_ddsO1Q8z5Lxu-YKMQS_UaHja9g
 
 ### Commit bot
 /jdcash eU9YaOjjYfQl8TzWz3JG1Q&eU9YaOW7ZvV392zWn3AXgA&eU9Ya7mxZ_gi8G7Vw3tG3g
