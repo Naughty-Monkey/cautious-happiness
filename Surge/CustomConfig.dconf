@@ -1,3 +1,1 @@
-[Rule]
-# Rulesets
-RULE-SET,https://cdn.jsdelivr.net/gh/lhie1/Rules@master/Surge/Surge%203/Provider/Special.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Ruleset/Emby/Emby.list,Porxy
